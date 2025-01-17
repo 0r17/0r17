@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&pause=1000&center=true&width=435&lines=Hello+World!;I'm+rws;Welcome!;Full+Stack+Developer" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&pause=1000&center=true&width=435&lines=Hello+World!;I'm+rwsrx;Welcome!;Full+Stack+Developer" alt="Typing SVG"/>
 </h1>
 
 <div align="center">
@@ -17,8 +17,8 @@
 
 <div align="center">
     <h2>GitHub Analytics</h2>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rws&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img width="49%" src="https://streak-stats.demolab.com/?user=rws&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rwsrx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img width="49%" src="https://streak-stats.demolab.com/?user=rwsrx&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -30,15 +30,15 @@
 
 <div align="center">
     <h2>Activity</h2>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rws&theme=tokyo-night" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rwsrx&theme=tokyo-night" alt="Activity Graph"/>
 </div>
 
 <div align="center">
     <h2>Connect</h2>
-    <a href="https://linkedin.com/in/rws" target="_blank">
+    <a href="https://linkedin.com/in/rwsrx" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/rws" target="_blank">
+    <a href="https://twitter.com/rwsrx" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
     <a href="https://discord.com/channels/@me/1025178617069707286" target="_blank">
