@@ -11,7 +11,7 @@
 <div align="center">
     <h2>Tech Stack</h2>
     <div class="skills-container">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,java,docker,kubernetes,mongodb,mysql,postgres,redis,aws,gcp,git,github,gitlab,linux,bash,vim,vscode,php,ruby,rust,go,kotlin,swift,flutter,angular,vue,django,spring" alt="Skills"/>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,docker,kubernetes,mongodb,mysql,postgres,aws,gcp,git,github,gitlab,linux,vim,vscode,ruby,rust,kotlin,swift,flutter,django" alt="Skills"/>
     </div>
 </div>
 
