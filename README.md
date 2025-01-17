@@ -24,7 +24,7 @@
 <div align="center">
     <h2>Now Playing</h2>
     <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hxvxzez2pthxxlh6pjj7yojace&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile"/>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ygv25s4tikwaj3suht6ssfdp4q&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ygv25s4tikwaj3suht6ssfdp4q&cover_image=true&theme=default&show_offline=true&background_color=00ffff&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile"/>
     </a>
 </div>
 
