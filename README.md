@@ -5,13 +5,13 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&pause=1000&center=true&width=435&lines=Hello+World!;I'm+0r17;Welcome!;Front+End+Developer" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&pause=1000&center=true&width=435&lines=Hello+World!;I'm+0r17;Welcome!;Full+Stack+Developer" alt="Typing SVG"/>
 </h1>
 
 <div align="center">
     <h2>Tech Stack</h2>
     <div class="skills-container">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,docker,kubernetes,mongodb,mysql,postgres,aws,gcp,git,github,gitlab,linux,vim,vscode,ruby,rust,kotlin,swift,flutter,django, php" alt="Skills"/>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,python,docker,kubernetes,mongodb,mysql,postgres,aws,gcp,git,github,gitlab,linux,vim,vscode,ruby,rust,kotlin,swift,flutter,django,php" alt="Skills"/>
     </div>
 </div>
 
