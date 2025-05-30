@@ -46,6 +46,6 @@
     </a>
 </div>
 
-<h3 align="center">"The only way to do great work is to love what you do." - Steve Jobs</h3>
+<h3 align="center">"God is my feather."</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=110&section=footer" width="100%">
