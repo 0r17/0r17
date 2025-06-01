@@ -24,23 +24,17 @@
 <div align="center">
     <h2>Now Playing</h2>
     <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ygv25s4tikwaj3suht6ssfdp4q&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ygv25s4tikwaj3suht6ssfdp4q&cover_image=true&theme=default&show_offline=true&background_color=00ffff&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile"/>
+        <img src="[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ygv25s4tikwaj3suht6ssfdp4q&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ygv25s4tikwaj3suht6ssfdp4q&cover_image=true&theme=default&show_offline=true&background_color=00ffff&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profil](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31s43vts6vfn4ko4p3ghqqmnk62e&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31s43vts6vfn4ko4p3ghqqmnk62e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=3f3fc0&bar_color_cover=false)"/>
     </a>
 </div>
 
 <div align="center">
     <h2>Activity</h2>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rwsrx&theme=tokyo-night" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0r17&theme=tokyo-night" alt="Activity Graph"/>
 </div>
 
 <div align="center">
     <h2>Connect</h2>
-    <a href="https://linkedin.com/in/rwsrx" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/rwsrx" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://s2-epocanegocios.glbimg.com/0afvKEVzFI-RtNjv5qvkIhL_B18=/0x0:514x511/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e536e40f1baf4c1a8bf1ed12d20577fd/internal_photos/bs/2023/t/6/znPU50SGCQI7YdhRwjUg/xa.jpg" alt="X"/>
-    </a>
     <a href="https://discord.com/channels/@me/1025178617069707286" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
