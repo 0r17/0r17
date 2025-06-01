@@ -24,7 +24,7 @@
 <div align="center">
     <h2>Now Playing</h2>
     <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ygv25s4tikwaj3suht6ssfdp4q&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ygv25s4tikwaj3suht6ssfdp4q&cover_image=true&theme=default&show_offline=true&background_color=00ffff&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profil](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31s43vts6vfn4ko4p3ghqqmnk62e&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31s43vts6vfn4ko4p3ghqqmnk62e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=3f3fc0&bar_color_cover=false)"/>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ygv25s4tikwaj3suht6ssfdp4q&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ygv25s4tikwaj3suht6ssfdp4q&cover_image=true&theme=default&show_offline=true&background_color=00ffff&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profil](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31s43vts6vfn4ko4p3ghqqmnk62e&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31s43vts6vfn4ko4p3ghqqmnk62e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=3f3fc0&bar_color_cover=false)"/>
     </a>
 </div>
 
