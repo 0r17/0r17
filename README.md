@@ -8,7 +8,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&pause=1000&center=true&width=435&lines=Hello+World!;I'm+0r17;Welcome!;Full+Stack+Developer" alt="Typing SVG"/>
 </h1>
 
-<p>o</p>
+<div align="center">
+    <p>
+         <a href="https://portifolio-production-2e56.up.railway.app/">Visit my Portifolio</a> 
+    </p>
+</div>
 
 <div align="center">
     <h2>Tech Stack</h2>
