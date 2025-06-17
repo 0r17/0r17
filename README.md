@@ -8,6 +8,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&pause=1000&center=true&width=435&lines=Hello+World!;I'm+0r17;Welcome!;Full+Stack+Developer" alt="Typing SVG"/>
 </h1>
 
+<p>o</p>
+
 <div align="center">
     <h2>Tech Stack</h2>
     <div class="skills-container">
