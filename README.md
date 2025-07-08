@@ -25,28 +25,31 @@
     </p>
 </div>
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
-    <h3>Languages & Frameworks</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,ruby,rust,kotlin,swift" alt="Languages"/>
     
-    <h3>Frontend Development</h3>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,bootstrap" alt="Frontend"/>
+**Languages & Frameworks**
     
-    <h3>Backend Development</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,php,ruby,rust,kotlin,swift" alt="Languages"/>
     
-    <h3>Databases & Cloud</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,gcp,docker,kubernetes" alt="Database & Cloud"/>
+**Frontend Development**
     
-    <h3>Tools & Environment</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vim,vscode,figma,postman" alt="Tools"/>
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,bootstrap" alt="Frontend"/>
+    
+**Backend Development**
+    
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel" alt="Backend"/>
+    
+**Databases & Cloud**
+    
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,gcp,docker,kubernetes" alt="Database & Cloud"/>
+    
+**Tools & Environment**
+    
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vim,vscode,figma,postman" alt="Tools"/>
 
----
+</div>
 
 ## 📊 GitHub Analytics
 
@@ -59,36 +62,22 @@
     <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0r17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
----
-
 ## 📈 Activity Graph
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=0r17&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </div>
 
----
-
-## 🎵 Now Playing
-
-<div align="center">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ygv25s4tikwaj3suht6ssfdp4q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=00bfbf" alt="Spotify Now Playing"/>
-</div>
-
----
-
-## 🌟 Featured Projects
+##  Featured Projects
 
 <div align="center">
     <p>
-        Check out my latest projects and contributions on my portfolio: <br/>
-        <a href="https://0r17.xyz" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-0r17.xyz-00bfbf?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-        </a>
+        Check out my latest projects and contributions on my portfolio:
     </p>
+    <a href="https://0r17.xyz" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-0r17.xyz-00bfbf?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    </a>
 </div>
-
----
 
 ## 📫 Connect With Me
 
@@ -104,25 +93,15 @@
     </a>
 </div>
 
----
+## 🔥 Current Focus
 
-<div align="center">
-    <h3>🔥 Current Focus</h3>
-    <p>
-        • Building scalable web applications<br/>
-        • Exploring cloud architecture patterns<br/>
-        • Contributing to open source projects<br/>
-        • Learning new technologies and frameworks
-    </p>
-</div>
+- 🚀 Building scalable web applications
+- ☁️ Exploring cloud architecture patterns  
+- 🌍 Contributing to open source projects
+- 📚 Learning new technologies and frameworks
 
----
+## 💭 Philosophy
 
-<div align="center">
-    <h3>💭 Philosophy</h3>
-    <p>
-        <em>"Code is poetry written in logic. Every line tells a story, every function serves a purpose."</em>
-    </p>
-</div>
+> *"Code is poetry written in logic. Every line tells a story, every function serves a purpose."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=110&section=footer" width="100%">
