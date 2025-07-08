@@ -65,9 +65,7 @@ Always learning, always building, always evolving.
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/31gjuyyybyon5tnu6aka74rysaoa">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gjuyyybyon5tnu6aka74rysaoa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=00bfbf&bar_color_cover=true" alt="Spotify GitHub Profile"/>
-</a>
+[![Spotify](https://spotify-recently-played-github-readme.vercel.app/api?user=31gjuyyybyon5tnu6aka74rysaoa&unique=1)](https://open.spotify.com/user/31gjuyyybyon5tnu6aka74rysaoa)
 
 </div>
 
