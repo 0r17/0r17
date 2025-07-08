@@ -61,16 +61,13 @@ Always learning, always building, always evolving.
 
 </div>
 
-## 🎵 Listen With Me
+## 🎵 Now Playing
 
 <div align="center">
-
-[![Spotify Profile](https://img.shields.io/badge/🎵%20Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31gjuyyybyon5tnu6aka74rysaoa)
-
-**Currently jamming to some great tracks! 🎧**
-
-*Click above to see what I'm listening to and follow my playlists*
-
+    <h2>Now Playing</h2>
+    <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid= 31gjuyyybyon5tnu6aka74rysaoa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile"/>
+    </a>
 </div>
 
 ## 🌟 Featured Projects
