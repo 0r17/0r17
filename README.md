@@ -66,7 +66,7 @@ Always learning, always building, always evolving.
 <div align="center">
     <h2>Now Playing</h2>
     <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid= 31gjuyyybyon5tnu6aka74rysaoa&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile"/>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gjuyyybyon5tnu6aka74rysaoa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gjuyyybyon5tnu6aka74rysaoa&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=006cfa&bar_color_cover=true)"/>
     </a>
 </div>
 
