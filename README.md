@@ -65,7 +65,9 @@ Always learning, always building, always evolving.
 
 <div align="center">
 
-![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gjuyyybyon5tnu6aka74rysaoa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=00bfbf)
+<a href="https://open.spotify.com/user/31gjuyyybyon5tnu6aka74rysaoa">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31gjuyyybyon5tnu6aka74rysaoa&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&bar_color=00bfbf" alt="Spotify Now Playing" />
+</a>
 
 </div>
 
