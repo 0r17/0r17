@@ -61,11 +61,15 @@ Always learning, always building, always evolving.
 
 </div>
 
-## 🎵 Now Playing
+## 🎵 Listen With Me
 
 <div align="center">
 
-[![Spotify](https://spotify-recently-played-github-readme.vercel.app/api?user=31gjuyyybyon5tnu6aka74rysaoa&unique=1)](https://open.spotify.com/user/31gjuyyybyon5tnu6aka74rysaoa)
+[![Spotify Profile](https://img.shields.io/badge/🎵%20Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31gjuyyybyon5tnu6aka74rysaoa)
+
+**Currently jamming to some great tracks! 🎧**
+
+*Click above to see what I'm listening to and follow my playlists*
 
 </div>
 
